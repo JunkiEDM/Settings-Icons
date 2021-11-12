@@ -1,8 +1,8 @@
-@mixin icon($item_id, $path, $color: black) {
+@mixin icon($item_id, $path, $color: white) {
     .side-8zPYf6 > .item-PXvHYJ[data-item-id="#{$item-id}"]:not(.role-3wi9Tf)::before {
         --icon: #{svg($path)};
 
-        @if ($color != black) {
+        @if ($color != white) {
             --settings-icon-color: #{$color};
         }
     };
