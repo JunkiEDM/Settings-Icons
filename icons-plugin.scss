@@ -1,7 +1,7 @@
 @import "mixins";
 
 
-@include icon(pc-general, "./icons/powercord/general.svg");
+@include icon(pc-general, "https://limeshark.dev/img/bdi/bdsettings.png");
 
 @include icon(pc-clickableEdits, "./icons/plugin/clickable-edits.svg");
 
@@ -74,3 +74,23 @@
 @include icon(view-raw, "./icons/plugin/view-raw.svg");
 
 @include icon(stonks, "./icons/plugin/stonks.svg");
+
+@include icon(quick-js, "./icons/plugin/js-snippets.svg");
+
+@include icon(DiscordFm, "./icons/plugin/discord-fm.svg");
+
+@include icon(image-tools-settings, "./icons/plugin/image-tools.svg");
+
+@include icon(my-palette, "./icons/plugin/my-palette.svg");
+
+@include icon(virus-checker-settings, "./icons/plugin/virus-checker.svg");
+
+@include icon(note-settings, "./icons/plugin/holy-notes.svg");
+
+@include icon(user-birthdays, "./icons/plugin/user-birthdays.svg");
+
+@include icon(powerclock-settings, "./icons/plugin/powerclock.svg");
+
+@include icon(custom-volume-range-settings, "./icons/plugin/custom-volume-range.svg");
+
+@include icon(embed-redirect, "./icons/plugin/embed-redirect.svg");
