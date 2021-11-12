@@ -33,7 +33,7 @@
 
 /* Extras Panel */
 @include icon(HypesquadOnline, "./icons/default/hypesquad.svg", var(--settings-hypesquad));
-@include icon(changelog, "https://limeshark.dev/img/bdi/changelog.png");
+@include icon(changelog, "./icons/default/changelog.svg");
 
 /* Logout */
 @include icon(logout, "./icons/default/logout.svg", var(--settings-logout));
