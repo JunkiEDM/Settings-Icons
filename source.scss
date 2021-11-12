@@ -44,9 +44,7 @@
     left: 15px;
     margin-right: 6px;
     margin-top: -2px;
-    background: var(--settings-icon-color);
-    -webkit-mask: var(--icon) center/contain no-repeat;
-    mask: var(--icon) center/contain no-repeat;
+    background: var(--icon) center/contain no-repeat;
     --icon: #{svg("./icons/plugin/default.svg")};
     flex-shrink: 0;
   }
