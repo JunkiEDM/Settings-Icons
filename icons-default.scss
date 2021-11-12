@@ -3,33 +3,33 @@
 /* Icons by Codedotspectra: https://codedotspectra.github.io/themes/core/settings-icons.css */
 
 /* User Settings */
-@include icon(MyAccount, "https://limeshark.dev/img/bdi/account.png");
-@include icon(ProfileCustomization, "https://limeshark.dev/img/bdi/profile.png");
-@include icon(PrivacynSafety, "https://limeshark.dev/img/bdi/privacy.png");
-@include icon(AuthorizedApps, "https://limeshark.dev/img/bdi/apps.png");
-@include icon(Connections, "https://limeshark.dev/img/bdi/connection.png");
+@include icon_png(MyAccount, "https://limeshark.dev/img/bdi/account.png");
+@include icon_png(ProfileCustomization, "https://limeshark.dev/img/bdi/profile.png");
+@include icon_png(PrivacynSafety, "https://limeshark.dev/img/bdi/privacy.png");
+@include icon_png(AuthorizedApps, "https://limeshark.dev/img/bdi/apps.png");
+@include icon_png(Connections, "https://limeshark.dev/img/bdi/connection.png");
 
 /* Billing Settings */
 @include icon(DiscordNitro, "./icons/default/subscriptions.svg", var(--settings-subscriptions));
-@include icon(NitroServerBoost, "https://limeshark.dev/img/bdi/boost.png");
-@include icon(Subscriptions, "https://limeshark.dev/img/bdi/billing.png");
-@include icon(LibraryInventory, "https://limeshark.dev/img/bdi/giftbox.png");
-@include icon(Billing, "https://limeshark.dev/img/bdi/billing.png");
+@include icon_png(NitroServerBoost, "https://limeshark.dev/img/bdi/boost.png");
+@include icon_png(Subscriptions, "https://limeshark.dev/img/bdi/billing.png");
+@include icon_png(LibraryInventory, "https://limeshark.dev/img/bdi/giftbox.png");
+@include icon_png(Billing, "https://limeshark.dev/img/bdi/billing.png");
 
 /* App Settings */
-@include icon(Appearance, "https://limeshark.dev/img/bdi/appearance.png");
-@include icon(Accessibility, "https://limeshark.dev/img/bdi/accesibility.png");
-@include icon(VoicenVideo, "https://limeshark.dev/img/bdi/microphone.png");
-@include icon(TextnImages, "https://limeshark.dev/img/bdi/text.png");
-@include icon(Notifications, "https://limeshark.dev/img/bdi/notification.png");
-@include icon(Keybinds, "https://limeshark.dev/img/bdi/keyboard.png");
-@include icon(Language, "https://limeshark.dev/img/bdi/language.png");
+@include icon_png(Appearance, "https://limeshark.dev/img/bdi/appearance.png");
+@include icon_png(Accessibility, "https://limeshark.dev/img/bdi/accesibility.png");
+@include icon_png(VoicenVideo, "https://limeshark.dev/img/bdi/microphone.png");
+@include icon_png(TextnImages, "https://limeshark.dev/img/bdi/text.png");
+@include icon_png(Notifications, "https://limeshark.dev/img/bdi/notification.png");
+@include icon_png(Keybinds, "https://limeshark.dev/img/bdi/keyboard.png");
+@include icon_png(Language, "https://limeshark.dev/img/bdi/language.png");
 @include icon(Linux, "./icons/default/os-settings.svg");
-@include icon(Windows, "https://limeshark.dev/img/bdi/windows.png");
-@include icon(StreamerMode, "https://limeshark.dev/img/bdi/streamer.png");
-@include icon(Advanced, "https://limeshark.dev/img/bdi/settings.png");
-@include icon(GameActivity, "https://limeshark.dev/img/bdi/activity.png");
-@include icon(Overlay, "https://limeshark.dev/img/bdi/overlay.png");
+@include icon_png(Windows, "https://limeshark.dev/img/bdi/windows.png");
+@include icon_png(StreamerMode, "https://limeshark.dev/img/bdi/streamer.png");
+@include icon_png(Advanced, "https://limeshark.dev/img/bdi/settings.png");
+@include icon_png(GameActivity, "https://limeshark.dev/img/bdi/activity.png");
+@include icon_png(Overlay, "https://limeshark.dev/img/bdi/overlay.png");
 
 /* Extras Panel */
 @include icon(HypesquadOnline, "./icons/default/hypesquad.svg", var(--settings-hypesquad));
