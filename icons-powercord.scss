@@ -1,7 +1,7 @@
 @import "mixins";
 
 
-@include icon(pc-general, "https://limeshark.dev/img/bdi/bdsettings.png");
+@include icon_png(pc-general, "https://limeshark.dev/img/bdi/bdsettings.png");
 @include icon(pc-moduleManager-plugins, "./icons/powercord/plugins.svg");
 @include icon(pc-moduleManager-themes, "./icons/powercord/themes.svg");
 @include icon(pc-updater, "./icons/powercord/updater.svg");
