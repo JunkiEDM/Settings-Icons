@@ -17,6 +17,6 @@
 
 @mixin icon_png($item_id, $path) {
     .side-8zPYf6 > .item-PXvHYJ[data-item-id="#{$item-id}"]:not(.role-3wi9Tf)::before {
-        --icon: url($path);
+        --icon: #{url($path)};
     };
 }
