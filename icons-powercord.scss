@@ -1,7 +1,7 @@
 @import "mixins";
 
 
-@include icon(pc-general, "./icons/powercord/general.svg");
+@include icon(pc-general, "https://limeshark.dev/img/bdi/bdsettings.png");
 @include icon(pc-moduleManager-plugins, "./icons/powercord/plugins.svg");
 @include icon(pc-moduleManager-themes, "./icons/powercord/themes.svg");
 @include icon(pc-updater, "./icons/powercord/updater.svg");
@@ -9,4 +9,5 @@
 /* Extras Panel */
 @include icon(pc-labs, "./icons/powercord/labs.svg");
 @include icon(Experiments, "./icons/powercord/experiments.svg");
+@include icon(HotspotOptions, "./icons/powercord/experiments.svg");
 @include icon(DeveloperOptions, "./icons/powercord/developer.svg");
