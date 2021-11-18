@@ -93,4 +93,20 @@
 
 @include icon(custom-volume-range-settings, "./icons/plugin/custom-volume-range.svg");
 
-@include icon(embed-redirect, "./icons/plugin/embed-redirect.svg");
+@include icon_png(css-toggler, "https://limeshark.dev/img/bdi/css.png");
+
+@include icon(pindms, "./icons/plugin/pin-dms.svg");
+
+@include icon(invichat, "./icons/plugin/invisible-chat.svg");
+
+@include icon(vpc-shiki, "./icons/plugin/shiki-codeblocks.svg");
+
+@include icon(VoiceChatUtilities, "./icons/plugin/voicechat-utilities.svg");
+
+@include icon(custom-rpc, "./icons/plugin/custom-rpc.svg");
+
+@include icon(BetterMediaPlayer-settings, "./icons/plugin/better-media-player.svg");
+
+@include icon(better-status-indicators, "./icons/plugin/better-status-indicators.svg");
+
+@include icon(AFK-on-exit, "./icons/plugin/afk-on-exit.svg");
